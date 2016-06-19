@@ -13,3 +13,7 @@ At Hackcon III, I took notes throughout the conference with thoughts, comments, 
 4. Submit a pull request with your notes
 
 Let's do it.
+
+## Suggestions/Comments
+---
+If you want changes or something different, hit me up with an issue and I'll see what I can do.
