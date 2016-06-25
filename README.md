@@ -1,5 +1,6 @@
 # Hackcon IV Notes
 ----
+Take em, or read em.
 
 ## What
 ---
